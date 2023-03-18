@@ -7,10 +7,6 @@ First and foremost, want to thank God above anyone for the technological/enginee
 
 Standing on the shoulders of giants, I seek to 'build off of' and invision a revolutionary approach to global and map based representation and imagery of Earth and even other planets within our Solar System--Jovian and minor.
 
-Features to include: 
-AI
-Deep Learning
-Machine Learning
-Recursive self-improvement
+Features to include: AI, Deep Learning, Machine Learning, Recursive self-improvement
 
 IPFS (Interplanetary File System) also works intagent with Github. So utilised this repositors (and branches thereof) is also ideal with the site.
