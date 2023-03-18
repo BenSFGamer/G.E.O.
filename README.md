@@ -10,3 +10,5 @@ Standing on the shoulders of giants, I seek to 'build off of' and invision a rev
 Features to include: AI, Deep Learning, Machine Learning, Recursive self-improvement
 
 IPFS (Interplanetary File System) also works intagent with Github. So utilised this repositors (and branches thereof) is also ideal with the site.
+
+Some potentional UI designs for the program: https://tinyurl.com/3D-Globe-UI
